@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="065e25e4-4037-41eb-a8f8-2ff2efeb4e37" name="Default Changelist" comment="添加两题">
-      <change afterPath="$PROJECT_DIR$/22从上往下打印二叉树/22从上往下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22从上往下打印二叉树/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22从上往下打印二叉树/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23二叉搜索树的后序遍历序列/23二叉搜索树的后序遍历序列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23二叉搜索树的后序遍历序列/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23二叉搜索树的后序遍历序列/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24二叉树中和为某一值的路径/24二叉树中和为某一值的路径.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24二叉树中和为某一值的路径/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/25复杂链表的复制.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/26二叉搜索树与双向链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,16 +23,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23二叉搜索树的后序遍历序列/src/com/oyoungy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/readme.md">
+        <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
@@ -47,22 +35,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="53" column="66" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1324">
-              <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+            <state relative-caret-position="450">
+              <caret line="20" column="23" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/二维数组的查找/readme.md" />
-        <option value="$PROJECT_DIR$/二维数组的查找/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/1二维数组的查找/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/2替换空格/readme.md" />
         <option value="$PROJECT_DIR$/3从尾到头打印链表/readme.md" />
         <option value="$PROJECT_DIR$/3从尾到头打印链表/src/com/oyoungy/Solution.java" />
@@ -139,6 +124,10 @@
         <option value="$PROJECT_DIR$/23二叉搜索树的后序遍历序列/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/24二叉树中和为某一值的路径/readme.md" />
         <option value="$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/25复杂链表的复制/readme.md" />
+        <option value="$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md" />
+        <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -162,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +158,49 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="25复杂链表的复制" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="26二叉搜索树与双向链表" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="19顺序打印矩阵" />
@@ -234,20 +259,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="16合并两个排序的链表" />
+      <module name="26二叉搜索树与双向链表" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +306,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27936962" visible="true" weight="0.19989339" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27936962" visible="true" weight="0.20415778" />
       <window_info id="Structure" order="1" sideWeight="0.72063035" side_tool="true" weight="0.17963752" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -290,7 +315,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29580575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31677705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
@@ -404,6 +429,18 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -427,40 +464,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="296" column="17" selection-start-line="296" selection-start-column="17" selection-end-line="296" selection-end-column="17" />
-          <folding>
-            <element signature="e#12401#12402#0" expanded="true" />
-            <element signature="e#12432#12433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5用两个栈实现队列/5用两个栈实现队列.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5用两个栈实现队列/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6旋转数组的最小数字/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="25">
-            <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7斐波那契数列/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -818,18 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22从上往下打印二叉树/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -847,6 +838,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3125">
+          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -859,25 +857,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/23二叉搜索树的后序遍历序列/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1324">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+        <state relative-caret-position="675">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25复杂链表的复制/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22从上往下打印二叉树/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="53" column="66" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="66" />
+        <state relative-caret-position="450">
+          <caret line="20" column="23" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
         </state>
       </provider>
     </entry>
