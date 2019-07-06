@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="065e25e4-4037-41eb-a8f8-2ff2efeb4e37" name="Default Changelist" comment="添加两题">
-      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/25复杂链表的复制.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/26二叉搜索树与双向链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27字符串的排列/27字符串的排列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27字符串的排列/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28数组中出现次数超过一半的数字/28数组中出现次数超过一半的数字.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md">
+        <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
@@ -35,22 +35,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="20" column="23" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -77,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2替换空格/readme.md" />
-        <option value="$PROJECT_DIR$/3从尾到头打印链表/readme.md" />
-        <option value="$PROJECT_DIR$/3从尾到头打印链表/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/2替换空格/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/4重建二叉树/src/readme.md" />
         <option value="$PROJECT_DIR$/4重建二叉树/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/5用两个栈实现队列/readme.md" />
@@ -128,6 +112,10 @@
         <option value="$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md" />
         <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/27字符串的排列/readme.md" />
+        <option value="$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md" />
+        <option value="$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -151,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,48 +148,10 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="24二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="25复杂链表的复制" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="26二叉搜索树与双向链表" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -230,17 +182,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="19顺序打印矩阵" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="6旋转数组的最小数字" />
+      <module name="28数组中出现次数超过一半的数字" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,13 +211,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="27字符串的排列" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,8 +258,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27936962" visible="true" weight="0.20415778" />
-      <window_info id="Structure" order="1" sideWeight="0.72063035" side_tool="true" weight="0.17963752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.20628998" />
+      <window_info id="Structure" order="1" sideWeight="0.7218182" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -315,7 +267,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29580575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31677705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36534217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
@@ -333,6 +285,34 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="PlantUML" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.20628998" />
+      <window_info id="Structure" order="1" sideWeight="0.7218182" side_tool="true" weight="0.20628998" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="simpleUML" order="5" weight="0.5788913" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29580575" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.09713025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3852097" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.27262694" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.47019866" />
+      <window_info anchor="bottom" id="Sequence" order="12" weight="0.6598712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -441,6 +421,30 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -464,40 +468,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7斐波那契数列/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7斐波那契数列/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8跳台阶/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8跳台阶/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9变态跳台阶/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -746,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="1850" column="62" selection-start-line="1850" selection-start-column="62" selection-end-line="1850" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19顺序打印矩阵/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -821,13 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="4087" column="73" lean-forward="true" selection-start-line="4087" selection-start-column="20" selection-end-line="4087" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/23二叉搜索树的后序遍历序列/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -835,13 +791,6 @@
             <caret column="3" selection-start-column="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3125">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -903,6 +852,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="267" column="20" selection-start-line="267" selection-start-column="20" selection-end-line="267" selection-end-column="20" />
+          <folding>
+            <element signature="e#10787#10788#0" expanded="true" />
+            <element signature="e#10858#10859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="298" column="10" selection-start-line="298" selection-start-column="10" selection-end-line="298" selection-end-column="47" />
+          <folding>
+            <element signature="e#11276#11277#0" expanded="true" />
+            <element signature="e#11314#11315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="551" column="22" lean-forward="true" selection-start-line="551" selection-start-column="22" selection-end-line="551" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -913,10 +898,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java">
+    <entry file="file://$PROJECT_DIR$/27字符串的排列/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
