@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="065e25e4-4037-41eb-a8f8-2ff2efeb4e37" name="Default Changelist" comment="添加两题">
-      <change afterPath="$PROJECT_DIR$/36两个链表的第一个公共节点/36两个链表的第一个公共节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36两个链表的第一个公共节点/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36两个链表的第一个公共节点/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37数字在排序数组中出现的次数/37数字在排序数组中出现的次数.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37数字在排序数组中出现的次数/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37数字在排序数组中出现的次数/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38二叉树的深度/38二叉树的深度.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38二叉树的深度/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38二叉树的深度/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39平衡二叉树/39平衡二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39平衡二叉树/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39平衡二叉树/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40数组中只出现一次的数字/40数组中只出现一次的数字.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40数组中只出现一次的数字/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40数组中只出现一次的数字/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41和为S的连续正数序列/41和为S的连续正数序列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41和为S的连续正数序列/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41和为S的连续正数序列/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42和为S的两个数字/42和为S的两个数字.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42和为S的两个数字/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42和为S的两个数字/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43左旋转字符串/43左旋转字符串.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43左旋转字符串/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43左旋转字符串/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44翻转单词顺序列/44翻转单词顺序列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44翻转单词顺序列/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44翻转单词顺序列/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45扑克牌顺子/45扑克牌顺子.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45扑克牌顺子/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/46孩子们的游戏(圆圈中最后剩下的数).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,7 +29,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/42和为S的两个数字/readme.md">
+        <entry file="file://$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
@@ -50,10 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/42和为S的两个数字/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="515">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -80,14 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/18二叉树的镜像/src/Solution.java" />
-        <option value="$PROJECT_DIR$/18二叉树的镜像/readme.md" />
-        <option value="$PROJECT_DIR$/18二叉树的镜像/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/19顺序打印矩阵/readme.md" />
-        <option value="$PROJECT_DIR$/19顺序打印矩阵/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/20包含min函数的栈/readme.md" />
-        <option value="$PROJECT_DIR$/20包含min函数的栈/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/21栈的压入弹出序列/readme.md" />
         <option value="$PROJECT_DIR$/21栈的压入弹出序列/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/22从上往下打印二叉树/readme.md" />
         <option value="$PROJECT_DIR$/22从上往下打印二叉树/src/com/oyoungy/Solution.java" />
@@ -131,6 +114,14 @@
         <option value="$PROJECT_DIR$/41和为S的连续正数序列/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/42和为S的两个数字/readme.md" />
         <option value="$PROJECT_DIR$/42和为S的两个数字/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/43左旋转字符串/readme.md" />
+        <option value="$PROJECT_DIR$/43左旋转字符串/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/44翻转单词顺序列/readme.md" />
+        <option value="$PROJECT_DIR$/44翻转单词顺序列/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/45扑克牌顺子/readme.md" />
+        <option value="$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/readme.md" />
+        <option value="$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -164,28 +155,20 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="42和为S的两个数字" type="462c0819:PsiDirectoryNode" />
+              <item name="45扑克牌顺子" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="42和为S的两个数字" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="42和为S的两个数字" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+              <item name="46孩子们的游戏(圆圈中最后剩下的数)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
       <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,17 +198,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="35数组中的逆序对" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="34第一个只出现一次的字符" />
+      <module name="46孩子们的游戏(圆圈中最后剩下的数)" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -237,27 +213,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="43左旋转字符串" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="32把数组排成最小的数" />
+      <module name="44翻转单词顺序列" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="33丑数" />
+      <module name="45扑克牌顺子" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +274,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.23560767" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.23827292" />
       <window_info id="Structure" order="1" sideWeight="0.7218182" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -299,7 +282,7 @@
       <window_info id="simpleUML" order="5" weight="0.5788913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.1986755" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.2174393" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.35320088" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,6 +601,42 @@
           <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/44翻转单词顺序列/src/com/oyoungy/Solution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/44翻转单词顺序列/src/com/oyoungy/Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -651,78 +670,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/21栈的压入弹出序列/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21栈的压入弹出序列/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="25">
-            <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22从上往下打印二叉树/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4重建二叉树/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23二叉搜索树的后序遍历序列/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24二叉树中和为某一值的路径/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23二叉搜索树的后序遍历序列/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/25复杂链表的复制/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1103,6 +1050,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43左旋转字符串/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43左旋转字符串/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/44翻转单词顺序列/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/44翻转单词顺序列/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45扑克牌顺子/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45扑克牌顺子/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="309" selection-start-line="1" selection-start-column="309" selection-end-line="1" selection-end-column="337" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46孩子们的游戏(圆圈中最后剩下的数)/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
