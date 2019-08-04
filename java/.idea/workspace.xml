@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="065e25e4-4037-41eb-a8f8-2ff2efeb4e37" name="Default Changelist" comment="添加两题">
-      <change afterPath="$PROJECT_DIR$/47求1+2+3...+n/47求1+2+3...+n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47求1+2+3...+n/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47求1+2+3...+n/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48不用加减乘除做加法/48不用加减乘除做加法.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48不用加减乘除做加法/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48不用加减乘除做加法/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49把字符串转换为整数/49把字符串转换为整数.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49把字符串转换为整数/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49把字符串转换为整数/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50数组中重复的数字/50数组中重复的数字.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50数组中重复的数字/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50数组中重复的数字/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51构建乘积数组/51构建乘积数组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51构建乘积数组/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51构建乘积数组/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52正则表达式匹配/52正则表达式匹配.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52正则表达式匹配/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,7 +21,38 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/51构建乘积数组/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/52正则表达式匹配/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="4" selection-start-column="4" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="120" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/25复杂链表的复制/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/readme.md" />
-        <option value="$PROJECT_DIR$/26二叉搜索树与双向链表/src/com/oyoungy/Solution.java" />
-        <option value="$PROJECT_DIR$/27字符串的排列/readme.md" />
         <option value="$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md" />
         <option value="$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java" />
@@ -100,6 +121,10 @@
         <option value="$PROJECT_DIR$/49把字符串转换为整数/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/50数组中重复的数字/readme.md" />
         <option value="$PROJECT_DIR$/50数组中重复的数字/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/51构建乘积数组/readme.md" />
+        <option value="$PROJECT_DIR$/51构建乘积数组/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/52正则表达式匹配/readme.md" />
+        <option value="$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -123,9 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,25 +158,15 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="50数组中重复的数字" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="50数组中重复的数字" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="50数组中重复的数字" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+              <item name="52正则表达式匹配" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="47求1+2+3...+n" />
@@ -213,20 +225,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="45扑克牌顺子" />
+      <module name="52正则表达式匹配" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -259,8 +271,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.24360341" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27818182" visible="true" weight="0.24626866" />
       <window_info id="Structure" order="1" sideWeight="0.7218182" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -268,8 +281,8 @@
       <window_info id="simpleUML" order="5" weight="0.5788913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.1821192" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.35320088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.1799117" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.35209712" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
@@ -595,6 +608,36 @@
           <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -628,44 +671,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/27字符串的排列/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/29最小的k个数/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/28数组中出现次数超过一半的数字/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/30连续子数组的最大和/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1065,6 +1070,40 @@
             <caret line="1" column="32" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="32" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51构建乘积数组/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51构建乘积数组/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/52正则表达式匹配/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/52正则表达式匹配/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="120" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
         </state>
       </provider>
     </entry>
