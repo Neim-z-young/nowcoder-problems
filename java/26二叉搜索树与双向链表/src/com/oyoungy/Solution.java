@@ -71,18 +71,18 @@ public class Solution {
             pRootOfTree.right = pRootOfTree;
             left = right = pRootOfTree;
         }else if(pRootOfTree.left==null){
-            right = Convert(pRootOfTree.right);
+            right = Convert1(pRootOfTree.right);
             left = pRootOfTree;
             left.right = pRootOfTree;
             left.left = pRootOfTree;
         }else if(pRootOfTree.right==null){
-            left = Convert(pRootOfTree.left);
+            left = Convert1(pRootOfTree.left);
             right = pRootOfTree;
             right.right = pRootOfTree;
             right.left = pRootOfTree;
         }else {
-            left= Convert(pRootOfTree.left);
-            right = Convert(pRootOfTree.right);
+            left= Convert1(pRootOfTree.left);
+            right = Convert1(pRootOfTree.right);
         }
         lmax = lmin = left;
         rmax = rmin = right;
